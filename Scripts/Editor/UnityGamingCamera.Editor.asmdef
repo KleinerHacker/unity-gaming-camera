@@ -1,0 +1,18 @@
+{
+  "name": "UnityGamingCamera.Editor",
+  "rootNamespace": "UnityGamingCamera.Editor",
+  "references": [
+    "GUID:23358c1ac78d7034e856bcc8702f70ab"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
