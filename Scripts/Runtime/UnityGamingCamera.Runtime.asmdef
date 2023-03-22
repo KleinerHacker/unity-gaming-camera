@@ -1,0 +1,17 @@
+{
+  "name": "UnityGamingCamera.Runtime",
+  "rootNamespace": "UnityGamingCamera.Runtime",
+  "references": [
+    "GUID:6753ff2140978d34db1d9899e49b3857",
+    "GUID:626cca1954403c942aaa892ce194af26"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

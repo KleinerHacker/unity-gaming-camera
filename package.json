@@ -1,0 +1,21 @@
+{
+  "name": "org.pcsoft.gaming.camera",
+  "version": "1.0.0",
+  "displayName": "Unity Gaming Camera",
+  "description": "Handling for in-game cameras",
+  "unity": "2021.3",
+  "keywords": [
+    "gaming",
+    "camera",
+    "handling"
+  ],
+  "dependencies": {
+    "org.pcsoft.common-ex": "1.1.11",
+    "org.pcsoft.animation": "1.2.7"
+  },
+  "author": {
+    "name": "Pfeiffer C Soft",
+    "email": "kl3in3rhack3r@gmail.com",
+    "url": "https://github.com/KleinerHacker/unity-gaming-camera"
+  }
+}

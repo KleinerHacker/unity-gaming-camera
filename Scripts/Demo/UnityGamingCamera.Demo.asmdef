@@ -1,0 +1,17 @@
+{
+  "name": "UnityGamingCamera.Demo",
+  "rootNamespace": "UnityGamingCamera.Demo",
+  "references": [
+    "GUID:23358c1ac78d7034e856bcc8702f70ab",
+    "GUID:75469ad4d38634e559750d17036d5f7c"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
